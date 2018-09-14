@@ -86,7 +86,7 @@ def pnx(n,x):
 
 
 n = int(input("Ingrese n: "))
-x = int(input("Ingrese x: "))
+x = float(input("Ingrese x: "))
 
 pn = pnx(n,x)
 print ("\nPn(",x,") = ",pn)
